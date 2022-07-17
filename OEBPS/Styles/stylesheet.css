@@ -23,10 +23,6 @@ body {
 .em2 {
   font-weight: normal;
 }
-.margin2 {
-  font-weight: normal;
-  padding-left: 2em;
-}
 .jiazhu {
   color: #069;
   font-weight: normal;
@@ -40,20 +36,6 @@ span.yinwen {
 }
 .section {
   font-weight: bold;
-}
-h5 {
-  font-size: large;
-  font-weight: bold;
-  text-indent: 0;
-}
-.biaozhusup {
-  font-size: 0.8em;
-  font-weight: bold;
-  white-space: nowrap;
-}
-.biaozhusup::before {
-  content: attr(data-rel);
-  margin: 0;
 }
 .jiaozhusup {
   font-size: 12px;
@@ -80,19 +62,6 @@ h1 {
   margin: 0;
   padding: 0;
 }
-table {
-  font-size: 100%;
-  border-collapse: collapse;
-  border-spacing: 0;
-  color: #666;
-}
-table td {
-  font-size: 90%;
-  vertical-align: top;
-  padding: 5px;
-  border: #b9ccf9 1px solid;
-  letter-spacing: 0;
-}
 #text {
   text-align: justify;
   width: 100%;
@@ -108,9 +77,4 @@ table td {
     padding-left: 1.82%;
     padding-right: 1.82%;
   }
-}
-.red{color: red;}
-.titlesup {
-  font-size: 0.65em;
-  font-weight: normal;
 }
