@@ -22,7 +22,7 @@
     <dc:subject>诸子百家</dc:subject>
     <dc:subject>古典文学</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">9c667814-8a80-411a-a1e2-8798f7b000c9</dc:identifier>
+    <dc:identifier opf:scheme="calibre">ab9ae0d6-386e-47e9-9436-832300f94fb3</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">1062611</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101005318</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
@@ -79,6 +79,7 @@
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item id="id37" href="Images/bacd588a1a3fb26512d3393c50699bd4.gif" media-type="image/gif"/>
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
