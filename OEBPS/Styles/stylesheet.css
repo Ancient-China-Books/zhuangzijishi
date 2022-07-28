@@ -78,3 +78,10 @@ h1 {
     padding-right: 1.82%;
   }
 }
+p:before{
+  content: '';
+  display: block;
+  margin-top: -15px;
+  height: 15px;
+  visibility: hidden;
+}
