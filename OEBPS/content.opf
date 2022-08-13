@@ -1,39 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uikmWR4aZmOTWRnOXfYZ9u2">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>庄子集释</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="撰, 郭庆藩 &amp; 点校, 王孝鱼">[清] 郭庆藩 撰</dc:creator>
-    <dc:creator opf:role="aut">王孝鱼 点校</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
-    <dc:publisher>中华书局</dc:publisher>
-    <dc:date>2005-12-31T16:00:00+00:00</dc:date>
+    <dc:creator opf:role="aut" opf:file-as="郭庆藩">郭庆藩</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
-&lt;p&gt;清代学术最为昌盛。清儒提出来的“实事求是”的原则成为学术近代化的标志。《庄子集释》是清代关于《庄子》的注疏、训诂的集大成之作。中华书局将之编入《新编诸子集成》第一辑，多年以来一直为学界所重视。&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;清郭慶藩所輯的《莊子集釋》集結了晉郭象注，唐成玄英疏，以及陸德明的音義，引用清代王念孫及俞樾的考證，是研究或研讀莊子相當豐富的集解本。&lt;/p&gt;
+&lt;p&gt;基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:date opf:event="modification">2022-06-10</dc:date>
-    <dc:subject>庄子</dc:subject>
-    <dc:subject>中国哲学</dc:subject>
-    <dc:subject>哲学</dc:subject>
-    <dc:subject>国学</dc:subject>
-    <dc:subject>诸子</dc:subject>
-    <dc:subject>郭庆藩</dc:subject>
-    <dc:subject>中华书局</dc:subject>
+    <dc:identifier id="uikmWR4aZmOTWRnOXfYZ9u2" opf:scheme="uuid">uikmWR4aZmOTWRnOXfYZ9u2</dc:identifier>
     <dc:subject>古籍</dc:subject>
-    <dc:subject>诸子百家</dc:subject>
-    <dc:subject>古典文学</dc:subject>
+    <dc:subject>子部</dc:subject>
+    <dc:subject>莊子</dc:subject>
+    <dc:subject>道家典籍</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">97e0d997-52fe-4fe5-935d-86c4c3233f6e</dc:identifier>
-    <dc:identifier opf:scheme="NEW_DOUBAN">1062611</dc:identifier>
-    <dc:identifier opf:scheme="ISBN">9787101005318</dc:identifier>
+    <dc:identifier opf:scheme="calibre">0da17089-49cd-4acb-908c-ca6e78fdbcc2</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="庄子集释" name="calibre:title_sort"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;[清] 郭庆藩 撰&quot;: &quot;&quot;, &quot;王孝鱼 点校&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-    <meta content="新編諸子集成" name="calibre:series"/>
+    <meta content="{&quot;郭庆藩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="道家典籍" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="10.0" name="calibre:rating"/>
     <meta content="1.9.10" name="Sigil version"/>
     <meta name="cover" content="cover"/>
-    <dc:identifier id="uikmWR4aZmOTWRnOXfYZ9u2" opf:scheme="uuid">uikmWR4aZmOTWRnOXfYZ9u2</dc:identifier>
   </metadata>
   <manifest>
     <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
