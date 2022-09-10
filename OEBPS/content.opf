@@ -1,9 +1,9 @@
 <?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uikmWR4aZmOTWRnOXfYZ9u2">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <dc:title>庄子集释</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="郭庆藩">郭庆藩</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:title>莊子集釋</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="清·郭慶藩">清·郭慶藩</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
 &lt;p&gt;清郭慶藩所輯的《莊子集釋》集結了晉郭象注，唐成玄英疏，以及陸德明的音義，引用清代王念孫及俞樾的考證，是研究或研讀莊子相當豐富的集解本。&lt;/p&gt;
@@ -15,11 +15,11 @@
     <dc:subject>莊子</dc:subject>
     <dc:subject>諸子百家</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">0da17089-49cd-4acb-908c-ca6e78fdbcc2</dc:identifier>
+    <dc:identifier opf:scheme="calibre">66ae4372-ea66-4811-b63e-cc1a2aeaf049</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
-    <meta content="庄子集释" name="calibre:title_sort"/>
+    <meta content="莊子集釋" name="calibre:title_sort"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;郭庆藩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;清·郭慶藩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="諸子百家" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="10.0" name="calibre:rating"/>
@@ -70,10 +70,10 @@
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item id="id37" href="Images/bacd588a1a3fb26512d3393c50699bd4.gif" media-type="image/gif"/>
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
